@@ -1,7 +1,3 @@
-Sure! Here's the cleaned-up, emoji-free version of your **README.md**:
-
----
-
 # Loan Prediction System using KNN
 
 This project predicts whether a loan should be approved or not, based on applicant details. It uses a clean preprocessing pipeline and a K-Nearest Neighbors (KNN) model to classify loan applications as either **approved (Y)** or **rejected (N)**.
